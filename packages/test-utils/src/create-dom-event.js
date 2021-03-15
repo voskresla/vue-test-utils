@@ -37,6 +37,7 @@ function getOptions(eventParams) {
 
     // Any derived options should go here
     keyCode,
+    //TODO: add tests
     key,
     code: keyCode
   }
